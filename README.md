@@ -22,3 +22,4 @@ https://obsidian.md/
 ## 图片使用
 
 - 安装插件 Custom Attach Location
+- 修改配置
