@@ -37,4 +37,10 @@ https://obsidian.md/
 
 - 安装插件 Enhancing Export
 - 设置pacdoc地址
+![](assets/README/file-20260119212822702.png)
 - [下载](https://github.com/jgm/pandoc/releases)
+
+
+## 链接其他笔记
+
+例如：[测试笔记1](测试笔记1.md)
