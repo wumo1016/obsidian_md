@@ -23,3 +23,12 @@ https://obsidian.md/
 
 - 安装插件 Custom Attach Location
 - 修改配置
+
+![500](assets/README/file-20260119211556887.png)
+
+![](assets/README/file-20260119211610728.png)
+
+![](assets/README/file-20260119211615984.png)
+
+![](assets/README/file-20260119211621190.png)
+
