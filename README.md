@@ -36,3 +36,5 @@ https://obsidian.md/
 ## 导出
 
 - 安装插件 Enhancing Export
+- 设置pacdoc地址
+- [下载](https://github.com/jgm/pandoc/releases)
