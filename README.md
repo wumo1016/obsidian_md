@@ -1,4 +1,4 @@
-## 地址1
+## 地址
 
 https://obsidian.md/
 
@@ -32,3 +32,7 @@ https://obsidian.md/
 
 ![](assets/README/file-20260119211621190.png)
 
+
+## 导出
+
+- 安装插件 Enhancing Export
