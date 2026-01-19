@@ -18,3 +18,7 @@ https://obsidian.md/
   - 启动
   - 设置自动同步以及同步时间
   - 设置启动时自动 Pull
+
+## 图片使用
+
+- 安装插件 Custom Attach Location
