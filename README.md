@@ -36,6 +36,8 @@ https://obsidian.md/
 
 ![](assets/README/file-20260119211621190.png)
 
+## 链接功能
+
 ## 导出
 
 - 安装插件 Enhancing Export
