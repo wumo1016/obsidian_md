@@ -2,6 +2,10 @@
 
 https://obsidian.md/
 
+## 基础使用
+
+- 添加标签: 在输入的时候输入 # 便可以添加标签
+
 ## 排除文件
 
 根目录新建 .gitignore 文件
@@ -32,14 +36,12 @@ https://obsidian.md/
 
 ![](assets/README/file-20260119211621190.png)
 
-
 ## 导出
 
 - 安装插件 Enhancing Export
 - 设置pacdoc地址
-![](assets/README/file-20260119212822702.png)
+  ![](assets/README/file-20260119212822702.png)
 - [下载](https://github.com/jgm/pandoc/releases)
-
 
 ## 链接其他笔记
 
